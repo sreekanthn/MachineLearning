@@ -15,7 +15,7 @@ import pandas as pd
 
 # importing the data set 
 
-dataset = pd.read_csv('Salary_Data.csv')
+dataset = pd.read_csv('C:/Users/sreek/MyCode/MachineLearning/Part 2 - Regression/Section 4 - Simple Linear Regression/Simple_Linear_Regression/Salary_Data.csv')
 X= dataset.iloc[:,:-1].values # select everything except the last column 
 y = dataset.iloc[:, 1].values #selct the last column of the data 
 
