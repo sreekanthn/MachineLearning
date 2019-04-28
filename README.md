@@ -1,2 +1,2 @@
 # MachineLearning
-Machine learning practice code 
+This is all the code I wrote as part of the Machine learning training course taken from Udemy. I have worked only on the Python files. The R sample code is left as is coming from the trainer. 
